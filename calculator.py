@@ -15,7 +15,7 @@ try:
     elif ch == "/":
         try:
             res = a / b
-
+d
         except:
             print(sys.exc_info())
             sys.exit(1)
